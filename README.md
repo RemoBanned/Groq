@@ -6,3 +6,4 @@ mini_groq.py.txt ( app = key ) into my file .
 
 
 ## Set Up and dockerize the FastAPI Application
+![Image TEST] ![image](https://github.com/RemoBanned/Groq/assets/170004295/4dd3b261-a4b3-43c0-ba94-7fdefab9cb81)
