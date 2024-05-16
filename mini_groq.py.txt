@@ -7,7 +7,7 @@ app = FastAPI()
 
 # Configure the default for all requests:
 client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY"),
+    api_key=os.environ.get("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"),
     # 20 seconds (default is 1 minute)
     timeout=20.0,
     max_retries=1,
