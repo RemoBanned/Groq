@@ -8,6 +8,9 @@ mini_groq.py.txt ( app = key ) into my file .
 ## Set Up and dockerize the FastAPI Application
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/4dd3b261-a4b3-43c0-ba94-7fdefab9cb81)
 
+![image](https://github.com/RemoBanned/Groq/assets/170004295/6689a908-0d1e-4cb8-bb17-33924b025b3e)
+
+
 # Changement Change de port #
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/782e5751-c612-4194-9756-0c94a996dfe3) 
 # TEST CURL #
