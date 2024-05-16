@@ -26,6 +26,8 @@ mini_groq.py.txt ( app = key ) into my file .
 
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/30895e1a-1758-4f9e-b4ba-d6e4cb234271)
 
+![image](https://github.com/RemoBanned/Groq/assets/170004295/34ba8826-dab0-4d0b-83be-3b26fabdefdc)
+
 
 ## DockerHUB REP ##
 
