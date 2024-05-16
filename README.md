@@ -18,6 +18,9 @@ mini_groq.py.txt ( app = key ) into my file .
 
 
 ## DEV ##
+![image](https://github.com/RemoBanned/Groq/assets/170004295/0012c2e5-6b55-46be-9273-ea0964ffef86)
+
+
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/30895e1a-1758-4f9e-b4ba-d6e4cb234271)
 
 
