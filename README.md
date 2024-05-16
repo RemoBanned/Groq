@@ -13,5 +13,12 @@ mini_groq.py.txt ( app = key ) into my file .
 # TEST CURL #
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/eba7f39d-1c7e-46ec-ade5-53f6ecd119e2)
 
+# Dockerfile #
+![image](https://github.com/RemoBanned/Groq/assets/170004295/6bcf0d3a-085c-4101-85f9-ea24b1a96662)
+
+
 ## DEV ##
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/30895e1a-1758-4f9e-b4ba-d6e4cb234271)
+
+
+## DockerHUB REP ##
