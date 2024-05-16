@@ -10,4 +10,7 @@ mini_groq.py.txt ( app = key ) into my file .
 
 # Changement Change de port #
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/782e5751-c612-4194-9756-0c94a996dfe3) 
+# TEST CURL #
+![image](https://github.com/RemoBanned/Groq/assets/170004295/eba7f39d-1c7e-46ec-ade5-53f6ecd119e2)
+
 
