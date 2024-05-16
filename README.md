@@ -13,4 +13,5 @@ mini_groq.py.txt ( app = key ) into my file .
 # TEST CURL #
 ![image](https://github.com/RemoBanned/Groq/assets/170004295/eba7f39d-1c7e-46ec-ade5-53f6ecd119e2)
 
-
+## DEV ##
+![image](https://github.com/RemoBanned/Groq/assets/170004295/30895e1a-1758-4f9e-b4ba-d6e4cb234271)
